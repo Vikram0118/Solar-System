@@ -9,4 +9,4 @@ This Repository helps you making a realistic solar system using Three.js and i u
 Install the following :
 Node.js, 
 Three.js, 
-Parcel (i have used the old version of parcel, webpack also works fine) 
+Parcel (i have used the old version of parcel, webpack works fine) 
